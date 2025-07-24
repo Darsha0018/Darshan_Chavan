@@ -33,9 +33,12 @@
 
 ### 🏆 GitHub Trophies
 
+### 🧠 Top Languages
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DarshChavan&theme=radical&margin-w=15&margin-h=15&no-frame=true&row=2&column=4" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshChavan&layout=compact&theme=radical" />
 </p>
+
 
 ---
 
