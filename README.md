@@ -31,18 +31,12 @@
 
 ### 📊 GitHub Stats
 
-### 🚀 My GitHub World
+### 📈 Contribution Graph
 
 <p align="center">
-  <!-- GitHub Trophies -->
-  <img src="..." />
-
-  <!-- Contribution Graph -->
-  <img src="..." />
-
-  <!-- Top Languages -->
-  <img src="..." />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarshChavan&theme=dracula&area=true&hide_border=true" />
 </p>
+
 
 ### 🧠 Top Languages
 
