@@ -40,8 +40,8 @@
 
 ### 📫 Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)  
-- 📧 Email: your.email@example.com  
+- [LinkedIn](www.linkedin.com/in/darshan-chavan-24162a27a)  
+- 📧 Email: darshanchavan0018@gmail.com  
 - 🌐 Portfolio: [YourPortfolioLink.com](https://yourportfolio.com) (if available)
 
 ---
