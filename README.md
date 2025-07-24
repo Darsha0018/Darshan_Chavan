@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Darsh 👋</h1>
+<h1 align="center">Hi, I'm Darshan 👋</h1>
 
 <p align="center">
 🌱 Data Science Enthusiast | 💡 GenAI Explorer | 💻 Code & Coffee Lover  
