@@ -31,9 +31,10 @@
 
 ### 📊 GitHub Stats
 
+### 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarshChavan&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarshChavan&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DarshChavan&theme=radical&margin-w=15&margin-h=15&no-frame=true&row=2&column=4" />
 </p>
 
 ---
