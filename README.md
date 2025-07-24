@@ -31,7 +31,18 @@
 
 ### 📊 GitHub Stats
 
-### 🏆 GitHub Trophies
+### 🚀 My GitHub World
+
+<p align="center">
+  <!-- GitHub Trophies -->
+  <img src="..." />
+
+  <!-- Contribution Graph -->
+  <img src="..." />
+
+  <!-- Top Languages -->
+  <img src="..." />
+</p>
 
 ### 🧠 Top Languages
 
