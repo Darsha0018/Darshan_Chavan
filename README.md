@@ -40,7 +40,7 @@
 
 ### 📫 Let’s Connect
 
-- [LinkedIn](www.linkedin.com/in/darshan-chavan-24162a27a)  
+- [LinkedIn:  (www.linkedin.com/in/darshan-chavan-24162a27a)  ]
 - 📧 Email: darshanchavan0018@gmail.com  
 - 🌐 Portfolio: [YourPortfolioLink.com](https://yourportfolio.com) (if available)
 
