@@ -29,13 +29,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarshChavan&theme=dracula&area=true&hide_border=true" />
-</p>
 
 
 ### 🧠 Top Languages
