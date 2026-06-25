@@ -106,19 +106,25 @@ Currently, I'm focused on strengthening my fundamentals while building industry-
 
 
 ## 🌐 Connect With Me
+
 <p align="center">
 
-<a href="https://www.linkedin.com/in/darshan-chavan-24162a27a/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/darshan-chavan-24162a27a/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="25" alt="LinkedIn"/>
 </a>
+<b> LinkedIn:</b> Darshan Chavan
 
-<a href="mailto:darshanchavan0018@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+<br><br>
 
-<a href="https://github.com/Darsha0018">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/Darsha0018" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="25" alt="GitHub"/>
 </a>
+<b> GitHub:</b> Darsha0018
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=gmail" width="25" alt="Gmail"/>
+<b> Gmail:</b> darshanchavan0018@gmail.com
 
 </p>
 
