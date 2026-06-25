@@ -1,16 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Darshan%20Chavan&fontAlign=50&fontAlignY=38&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Artificial%20Intelligence%20%26%20Data%20Science%20Student&descAlignY=58&descSize=20"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&lines=Hi+👋,+I'm+Darshan+Chavan;Machine+Learning+Engineer;Data+Science+Enthusiast;AI+%26+ML+Developer;Backend+Developer;Building+Industry-Level+Projects"/>
-
-### 🚀 Final Year Artificial Intelligence & Data Science Student
-
-<img src="https://komarev.com/ghpvc/?username=DarshChavan&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/DarshChavan?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/DarshChavan?affiliations=OWNER&style=for-the-badge"/>
 
 </div>
 <div align="center">
@@ -120,11 +107,21 @@ Currently, I'm focused on strengthening my fundamentals while building industry-
 > "Learning by building. Improving one project at a time."
 
 
-### 📫 Let’s Connect
+<p align="center">
 
-- [LinkedIn:  (www.linkedin.com/in/darshan-chavan-24162a27a)  ]
-- 📧 Email: darshanchavan0018@gmail.com  
-- 🌐 Portfolio: 
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOURMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/DarshChavan">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
 
 ---
 
