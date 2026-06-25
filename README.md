@@ -1,10 +1,13 @@
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=700&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Darshan+Chavan" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=2000&pause=100000&color=58A6FF&center=true&vCenter=true&repeat=false&width=700&height=70&lines=Hi+👋,+I'm+Darshan+Chavan" />
 
-<br>
+### Final Year Artificial Intelligence & Data Science Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;Data+Science+Enthusiast;AI+%26+ML+Developer;Backend+Developer;Open+Source+Learner" />
+<p>
+<b>Machine Learning</b> • <b>Data Science</b> • <b>Software Development</b>
+</p>
 
 </div>
 
