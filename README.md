@@ -28,18 +28,56 @@ Currently, I'm focused on strengthening my fundamentals while building industry-
 ---
 
 
-## 🛠️ Tech Stack
+# 🛠️ Languages & Tools
 
-| **Category** | **Technologies** |
-|--------------|------------------|
-| **Programming Languages** | Python • SQL • Java • JavaScript • Go • C++ |
-| **Data Science & Machine Learning** | NumPy • Pandas • Scikit-learn • Matplotlib • MLflow |
-| **Databases** | MySQL • MongoDB |
-| **Frontend Development** | HTML • CSS • React • Tailwind CSS |
-| **Backend Development** | Node.js • Express.js • REST APIs |
-| **Developer Tools** | Git • GitHub • VS Code • Jupyter Notebook • Streamlit |
-| **Core Concepts** | Data Structures & Algorithms • Object-Oriented Programming • DBMS • Operating Systems • Computer Networks |
-| **Currently Learning** | Advanced SQL • MLOps • System Design • Cloud Computing |
+### 🚀 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,go,mysql" />
+</p>
+
+### 🤖 Data Science & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
+</p>
+
+### 🌐 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+### ☁️ Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws" />
+</p>
+
+- SQL (Advanced)
+- MLOps
+- System Design
+- Cloud Computing
+
+
 
 
 ---
