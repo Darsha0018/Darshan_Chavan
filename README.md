@@ -1,9 +1,12 @@
-
 <div align="center">
 
-# Hi, I'm Darshan Chavan 👋
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=3500&pause=1500&color=FFFFFF&center=true&vCenter=true&width=750&height=70&lines=Hi%2C+I'm+Darshan+Chavan+%F0%9F%91%8B" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Final+Year+AI+%26+Data+Science+Student;Machine+Learning+Engineer;Data+Science+Enthusiast;Building+AI+Powered+Applications;Always+Learning+New+Things" alt="Typing SVG" />
+### Final Year Artificial Intelligence & Data Science Student
+
+### Machine Learning • Data Science • Software Development
+
+</div>
 
 <br>
 
