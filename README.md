@@ -6,22 +6,6 @@
 
 </div>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=DarshChavan&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
-<img src="https://img.shields.io/github/followers/DarshChavan?label=Followers&style=for-the-badge&color=blue" />
-
-<img src="https://img.shields.io/github/stars/DarshChavan?affiliations=OWNER&style=for-the-badge&color=yellow" />
-
-</div>
-
-### 🚀 Machine Learning • Data Science • Software Development
-
-<img src="https://komarev.com/ghpvc/?username=DarshChavan&style=flat-square&color=blue" />
-
-</div>
-
 <p align="center">
 Final Year Artificial Intelligence & Data Science Student <br>
 Machine Learning • Data Science • Software Development
