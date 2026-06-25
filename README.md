@@ -2,10 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=3500&pause=1500&color=FFFFFF&center=true&vCenter=true&width=750&height=70&lines=Hi%2C+I'm+Darshan+Chavan+%F0%9F%91%8B" alt="Typing SVG" />
 
-### Final Year Artificial Intelligence & Data Science Student
-
-### Machine Learning • Data Science • Software Development
-
 </div>
 
 <p align="center">
