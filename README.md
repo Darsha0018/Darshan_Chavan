@@ -1,9 +1,19 @@
 
 <div align="center">
 
-# Hi 👋, I'm Darshan Chavan
+# Hi, I'm Darshan Chavan 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Data+Science+Student;Machine+Learning+Engineer;Data+Science+%7C+Python+Developer;Backend+Developer;Building+Industry+Level+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Final+Year+AI+%26+Data+Science+Student;Machine+Learning+Engineer;Data+Science+Enthusiast;Building+AI+Powered+Applications;Always+Learning+New+Things" alt="Typing SVG" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=DarshChavan&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/DarshChavan?label=Followers&style=for-the-badge&color=blue" />
+
+<img src="https://img.shields.io/github/stars/DarshChavan?affiliations=OWNER&style=for-the-badge&color=yellow" />
+
+</div>
 
 ### 🚀 Machine Learning • Data Science • Software Development
 
