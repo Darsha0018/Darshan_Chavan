@@ -103,10 +103,7 @@ Currently, I'm focused on strengthening my fundamentals while building industry-
 ---
 
 
-
-> "Learning by building. Improving one project at a time."
-
-
+## 🌐 Connect With Me
 <p align="center">
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
