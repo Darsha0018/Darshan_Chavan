@@ -34,16 +34,12 @@ Currently, I'm focused on strengthening my fundamentals while building industry-
 ### 🚀 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,go,mysql&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,go&perline=5" />
 </p>
 
 ---
 
 ### 🤖 Data Science & Machine Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=4" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -63,10 +59,18 @@ Currently, I'm focused on strengthening my fundamentals while building industry-
 
 ---
 
-### ⚙️ Backend Development
+### ⚙️ Backend Development & APIs
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express&perline=2" />
+</p>
+
+---
+
+### ☁️ Cloud & Deployment
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws&perline=2" />
 </p>
 
 ---
@@ -79,18 +83,10 @@ Currently, I'm focused on strengthening my fundamentals while building industry-
 
 ---
 
-### 🛠️ Tools & Platforms
+### 🛠️ Developer Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&perline=5" />
-</p>
-
----
-
-### ☁️ Currently Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws&perline=2" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,jupyter&perline=6" />
 </p>
 
 ---
