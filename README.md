@@ -1,6 +1,21 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=3500&pause=1500&color=FFFFFF&center=true&vCenter=true&width=750&height=70&lines=Hi%2C+I'm+Darshan+Chavan+%F0%9F%91%8B" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Darshan%20Chavan&fontAlign=50&fontAlignY=38&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Artificial%20Intelligence%20%26%20Data%20Science%20Student&descAlignY=58&descSize=20"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&lines=Hi+👋,+I'm+Darshan+Chavan;Machine+Learning+Engineer;Data+Science+Enthusiast;AI+%26+ML+Developer;Backend+Developer;Building+Industry-Level+Projects"/>
+
+### 🚀 Final Year Artificial Intelligence & Data Science Student
+
+<img src="https://komarev.com/ghpvc/?username=DarshChavan&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/DarshChavan?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/DarshChavan?affiliations=OWNER&style=for-the-badge"/>
+
+</div>
+<div align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700"/>
 
 </div>
 
