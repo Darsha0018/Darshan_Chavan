@@ -28,57 +28,70 @@ Currently, I'm focused on strengthening my fundamentals while building industry-
 ---
 
 
+
 # 🛠️ Languages & Tools
 
 ### 🚀 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,go,mysql" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,go,mysql&perline=6" />
 </p>
+
+---
 
 ### 🤖 Data Science & Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=4" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
 </p>
 
+---
+
 ### 🌐 Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&perline=4" />
 </p>
+
+---
 
 ### ⚙️ Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3" />
 </p>
+
+---
 
 ### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=2" />
 </p>
+
+---
 
 ### 🛠️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&perline=5" />
 </p>
+
+---
 
 ### ☁️ Currently Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws&perline=2" />
 </p>
-
-- SQL (Advanced)
-- MLOps
-- System Design
-- Cloud Computing
-
-
-
 
 ---
 
