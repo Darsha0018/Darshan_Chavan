@@ -1,5 +1,15 @@
 
-<h1 align="center">Hi, I'm Darshan Chavan 👋</h1>
+<div align="center">
+
+# Hi 👋, I'm Darshan Chavan
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Data+Science+Student;Machine+Learning+Engineer;Data+Science+%7C+Python+Developer;Backend+Developer;Building+Industry+Level+Projects" />
+
+### 🚀 Machine Learning • Data Science • Software Development
+
+<img src="https://komarev.com/ghpvc/?username=DarshChavan&style=flat-square&color=blue" />
+
+</div>
 
 <p align="center">
 Final Year Artificial Intelligence & Data Science Student <br>
