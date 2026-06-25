@@ -1,4 +1,8 @@
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=70&lines=Hey+👋,+I'm+Darshan+Chavan" />
+
+</div>  
 </div>
 <div align="center">
 
@@ -106,15 +110,15 @@ Currently, I'm focused on strengthening my fundamentals while building industry-
 ## 🌐 Connect With Me
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/darshan-chavan-24162a27a/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOURMAIL@gmail.com">
+<a href="mailto:darshanchavan0018@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://github.com/DarshChavan">
+<a href="https://github.com/Darsha0018">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
