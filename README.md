@@ -113,10 +113,12 @@ Currently, I'm focused on strengthening my fundamentals while building industry-
   <img src="https://skillicons.dev/icons?i=linkedin" width="25" alt="LinkedIn"/>
 </a>
 <b> LinkedIn:</b> Darshan Chavan
+<br>
 <a href="https://github.com/Darsha0018" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" width="25" alt="GitHub"/>
 </a>
 <b> GitHub:</b> Darsha0018
+<br>
 <img src="https://skillicons.dev/icons?i=gmail" width="25" alt="Gmail"/>
 <b> Gmail:</b> darshanchavan0018@gmail.com
 </p>
