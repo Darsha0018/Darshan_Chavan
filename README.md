@@ -98,7 +98,7 @@ Currently, I'm focused on strengthening my fundamentals while building industry-
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarshChavan&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshChavan&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 </p>
 
@@ -113,19 +113,12 @@ Currently, I'm focused on strengthening my fundamentals while building industry-
   <img src="https://skillicons.dev/icons?i=linkedin" width="25" alt="LinkedIn"/>
 </a>
 <b> LinkedIn:</b> Darshan Chavan
-
-<br><br>
-
 <a href="https://github.com/Darsha0018" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" width="25" alt="GitHub"/>
 </a>
 <b> GitHub:</b> Darsha0018
-
-<br><br>
-
 <img src="https://skillicons.dev/icons?i=gmail" width="25" alt="Gmail"/>
 <b> Gmail:</b> darshanchavan0018@gmail.com
-
 </p>
 
 ---
