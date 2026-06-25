@@ -110,12 +110,12 @@ Currently, I'm focused on strengthening my fundamentals while building industry-
 <p align="center">
 
 <a href="https://www.linkedin.com/in/darshan-chavan-24162a27a/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="25" alt="LinkedIn"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="25" alt="LinkedIn"/>
 </a>
 <b> LinkedIn:</b> Darshan Chavan
 <br>
 <a href="https://github.com/Darsha0018" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="25" alt="GitHub"/>
+<img src="https://skillicons.dev/icons?i=github" width="25" alt="GitHub"/>
 </a>
 <b> GitHub:</b> Darsha0018
 <br>
