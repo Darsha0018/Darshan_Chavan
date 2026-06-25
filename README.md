@@ -1,9 +1,7 @@
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=42&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&height=70&lines=Hey+👋,+I'm+Darshan+Chavan" />
-
 </div>  
-</div>
+
 <div align="center">
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700"/>
