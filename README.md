@@ -91,28 +91,7 @@ Currently, I'm focused on strengthening my fundamentals while building industry-
 
 ---
 
-## Featured Projects
 
-### Invoice Intelligence
-An end-to-end machine learning application for invoice processing, prediction, experiment tracking, and interactive visualization using MLflow and Streamlit.
-
-### AI Quiz Generator
-An AI-powered application that generates quizzes from uploaded PDF documents with automated question generation and evaluation.
-
-### Logistics Optimization Agent
-A machine learning and optimization project focused on solving delivery routing and logistics planning problems.
-
----
-
-## Currently Learning
-
-- Advanced SQL
-- Machine Learning Engineering
-- MLOps
-- Backend System Design
-- Cloud Fundamentals
-
----
 
 ## GitHub Stats
 
