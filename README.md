@@ -27,37 +27,20 @@ Currently, I'm focused on strengthening my fundamentals while building industry-
 
 ---
 
-## Tech Stack
 
-### Languages
-- Python
-- SQL
-- Java
-- JavaScript
-- Go
-- C++
+## 🛠️ Tech Stack
 
-### Machine Learning & Data Science
-- NumPy
-- Pandas
-- Scikit-learn
-- Matplotlib
-- MLflow
+| **Category** | **Technologies** |
+|--------------|------------------|
+| **Programming Languages** | Python • SQL • Java • JavaScript • Go • C++ |
+| **Data Science & Machine Learning** | NumPy • Pandas • Scikit-learn • Matplotlib • MLflow |
+| **Databases** | MySQL • MongoDB |
+| **Frontend Development** | HTML • CSS • React • Tailwind CSS |
+| **Backend Development** | Node.js • Express.js • REST APIs |
+| **Developer Tools** | Git • GitHub • VS Code • Jupyter Notebook • Streamlit |
+| **Core Concepts** | Data Structures & Algorithms • Object-Oriented Programming • DBMS • Operating Systems • Computer Networks |
+| **Currently Learning** | Advanced SQL • MLOps • System Design • Cloud Computing |
 
-### Web Development
-- React
-- Node.js
-- Express.js
-- MongoDB
-- HTML
-- CSS
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Streamlit
-- Jupyter Notebook
 
 ---
 
