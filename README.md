@@ -125,5 +125,5 @@ Currently, I'm focused on strengthening my fundamentals while building industry-
 
 ---
 
-> ⚡ _"Code. Build. Learn. Repeat."_  
+> ⚡ _"Code. Build. Learn. Repeat"_  
 # Darshan Chavan
